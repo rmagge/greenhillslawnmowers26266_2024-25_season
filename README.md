@@ -38,3 +38,4 @@
 ## Strategic Partnerships - Autonomous Robotic Vehicles Club from the University of Michigan
 ###### We have partnered with the Autonomous Robotic Vehicles Club of the University of Michigan, which is made up of university students at the University of Michigan. These members help us with our Engineering Portfolio and judge presentation by allowing us to give them a mock judge presentation to them, and by giving us feedback on what we can improve.
 ###### *Put image of us being interviewed by ARV Club here*
+### [Back to top](greenhills-lawnmowers-iii-26266---2024-25-season)
