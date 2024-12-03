@@ -1,7 +1,7 @@
 # Greenhills Lawnmowers III 26266 - 2024-25 Season
 ###### *Put catchphrase here*
 ## Contents:
-### [Our Robot](#our-robot)
+### [Our Robot](#our-robot-1)
 ### [Strategies](#strategies)
 ### [Team Goals](#team-goals)
 ### [Green Alliance](#green-alliance)
