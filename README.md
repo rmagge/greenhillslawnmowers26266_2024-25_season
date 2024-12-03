@@ -2,10 +2,10 @@
 ###### *Put catchphrase here*
 ## Contents:
 ### [Our Robot](#our-robot-1)
-### [Strategies](#strategies)
-### [Team Goals](#team-goals)
-### [Green Alliance](#green-alliance)
-### [Strategic Partnerships - Autonomous Robotic Vehicles Club from the University of Michigan](#strategic-partnerships---autonomous-robotic-vehicles-club-from-the-university-of-michigan)
+### [Strategies](#strategies-1)
+### [Team Goals](#team-goals-1)
+### [Green Alliance](#green-alliance-1)
+### [Strategic Partnerships - Autonomous Robotic Vehicles Club from the University of Michigan](#strategic-partnerships---autonomous-robotic-vehicles-club-from-the-university-of-michigan-1)
 ## Our Robot
 ### Chassis
 ###### Our robot drives with mecanum wheels. This allows our robot to strafe to the left and to the right as well as driving forward, backward, and turning.
